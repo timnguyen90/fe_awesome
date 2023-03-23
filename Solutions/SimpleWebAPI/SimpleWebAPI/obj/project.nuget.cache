@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvxA8IyHoPkKSH4j7CsK3ZECdleNVynRhjxvkapx9/s1TpkbB8G8ncQp8EEGiwaRq3qtnr0OTnhjzGkK7k6zfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phuc.nguyenvan\\Desktop\\repos\\fe_awesome\\Solutions\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\phuc.nguyenvan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
